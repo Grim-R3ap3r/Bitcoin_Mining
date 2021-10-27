@@ -18,7 +18,7 @@ def mine(block_number,transactions,previous_hash,prefix_zeros):
 if __name__=='--main__':
     transactions=
     '''
-    Rathin->Prachi->20,
+    Rathin->grimreaper->20,
     adarsh->Bansil->45
     '''
     difficulty=4
